@@ -3,7 +3,7 @@
 ```
 location  →  somewhere on the internet
 status    →  learning, building, figuring it out
-stack     →  java · c · sql · aws · git · html · css
+working with →  java · javascript · html · css · python · c · sql · aws · git 
 ```
 
 if it's interesting, i'll pick it up.
