@@ -18,8 +18,7 @@ if it's interesting, i'll pick it up.
 <summary>stats, if you care</summary>
 <br>
 
-![Akansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wakkawakka3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wakkawakka3&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wakkawakka3&theme=tokyonight" />
 
 </details>
 
